@@ -1,0 +1,324 @@
+_bronrij,Deelnemer ID,track_id,track_genre,Studietaak,Energieverschil,Stemmingsverschil,Moeilijkheid studie,energy,valence,tempo,danceability
+0,0,2AHKsVXN6BjBO8SEVX6cBC,singer-songwriter,,,,,0.0759,0.234,98.979,0.481
+0,0,2AHKsVXN6BjBO8SEVX6cBC,songwriter,,,,,0.0759,0.234,98.979,0.481
+1,0,,,"Reading (e.g., book, article, etc.)",,,2.0,,,,
+2,0,2pUpNOgJBIBCcjyQZQ00qU,folk,,-1.0,-3.0,,0.541,0.217,76.289,0.445
+3,0,6c7N5N7amAOpeMykjlovjI,singer-songwriter,,,,,0.404,0.129,81.713,0.508
+3,0,6c7N5N7amAOpeMykjlovjI,songwriter,,,,,0.404,0.129,81.713,0.508
+4,0,6c7N5N7amAOpeMykjlovjI,singer-songwriter,,,,,0.404,0.129,81.713,0.508
+4,0,6c7N5N7amAOpeMykjlovjI,songwriter,,,,,0.404,0.129,81.713,0.508
+5,0,,,,,,,,,,
+6,0,,,,,,,,,,
+7,0,,,,,,,,,,
+8,0,,,,,,,,,,
+9,0,6c7N5N7amAOpeMykjlovjI,singer-songwriter,,,,,0.404,0.129,81.713,0.508
+9,0,6c7N5N7amAOpeMykjlovjI,songwriter,,,,,0.404,0.129,81.713,0.508
+10,0,6hjh2phISvfR1Ib6S0FK7b,singer-songwriter,,,,,0.0682,0.352,76.94,0.691
+10,0,6hjh2phISvfR1Ib6S0FK7b,songwriter,,,,,0.0682,0.352,76.94,0.691
+11,0,5dyihZecYMcEPq09Bk2OL2,singer-songwriter,,,,,0.153,0.324,78.072,0.731
+11,0,5dyihZecYMcEPq09Bk2OL2,songwriter,,,,,0.153,0.324,78.072,0.731
+12,0,,,,,,,,,,
+13,0,,,,,,,,,,
+14,0,,,,,,,,,,
+15,0,,,,,,,,,,
+16,0,5rDrZXgrZ6iKxE6jDO2mFD,rock,,,,,0.694,0.851,114.945,0.68
+17,0,6c7N5N7amAOpeMykjlovjI,singer-songwriter,,,,,0.404,0.129,81.713,0.508
+17,0,6c7N5N7amAOpeMykjlovjI,songwriter,,,,,0.404,0.129,81.713,0.508
+18,0,,,,,,,,,,
+19,0,43QSsuxazI8xms29SYCtxh,anime,,,,,0.811,0.691,87.508,0.565
+19,0,43QSsuxazI8xms29SYCtxh,j-pop,,,,,0.811,0.691,87.508,0.565
+19,0,43QSsuxazI8xms29SYCtxh,j-rock,,,,,0.811,0.691,87.508,0.565
+20,0,6c7N5N7amAOpeMykjlovjI,singer-songwriter,,,,,0.404,0.129,81.713,0.508
+20,0,6c7N5N7amAOpeMykjlovjI,songwriter,,,,,0.404,0.129,81.713,0.508
+21,0,,,,,,,,,,
+22,0,6c7N5N7amAOpeMykjlovjI,singer-songwriter,,,,,0.404,0.129,81.713,0.508
+22,0,6c7N5N7amAOpeMykjlovjI,songwriter,,,,,0.404,0.129,81.713,0.508
+23,0,2pUpNOgJBIBCcjyQZQ00qU,folk,,,,,0.541,0.217,76.289,0.445
+24,0,2pUpNOgJBIBCcjyQZQ00qU,folk,,,,,0.541,0.217,76.289,0.445
+25,0,,,,,,,,,,
+26,1,,,,,,,,,,
+27,1,,,,,,,,,,
+28,1,,,,,,,,,,
+29,1,,,,1.0,0.0,,,,,
+30,1,,,"Reading (e.g., book, article, etc.)",0.0,0.0,1.0,,,,
+31,1,,,,,,,,,,
+32,1,648TTtYB0bH0P8Hfy0FmkL,jazz,,,,,0.182,0.178,136.094,0.349
+33,1,,,,,,,,,,
+34,1,,,,,,,,,,
+35,1,,,"Reading (e.g., book, article, etc.)",,,1.0,,,,
+36,1,,,"Writing an assignment (e.g., essay)",,,1.0,,,,
+37,2,,,,,,,,,,
+38,2,,,,,,,,,,
+39,2,2USlegnFJLrVLpoVfPimKB,dance,,,,,0.896,0.403,101.216,0.67
+39,2,2USlegnFJLrVLpoVfPimKB,edm,,,,,0.896,0.403,101.216,0.67
+39,2,2USlegnFJLrVLpoVfPimKB,house,,,,,0.896,0.403,101.216,0.67
+40,2,,,,,,,,,,
+41,2,,,,,,,,,,
+42,2,,,,,,,,,,
+43,2,3D9TYPbNo1nnTwE4eLKxnJ,swedish,,,,,0.337,0.381,75.041,0.445
+44,2,,,,,,,,,,
+45,2,,,,,,,,,,
+46,2,,,,,,,,,,
+47,2,,,,,,,,,,
+48,2,,,,,,,,,,
+49,2,,,,,,,,,,
+50,2,,,,0.0,0.0,,,,,
+51,2,1RlmAzI27AlIpvoRN3u6Iy,electro,,,,,0.864,0.892,160.009,0.636
+52,2,,,,,,,,,,
+53,2,,,,,,,,,,
+54,2,2UbVnbE5FH6008mAm6Mmgw,piano,,,,,0.72,0.673,117.003,0.682
+54,2,2UbVnbE5FH6008mAm6Mmgw,rock,,,,,0.72,0.673,117.003,0.682
+55,2,,,,,,,,,,
+56,2,1AM8QdDFZMq6SrrqUnuQ9P,j-pop,,,,,0.548,0.477,115.144,0.535
+56,2,1AM8QdDFZMq6SrrqUnuQ9P,jazz,,,,,0.548,0.477,115.144,0.535
+57,2,,,,,,,,,,
+58,2,,,,,,,,,,
+59,2,,,,,,,,,,
+60,2,,,,,,,,,,
+61,2,,,,,,,,,,
+62,2,,,,,,,,,,
+63,2,,,,,,,,,,
+64,2,,,,,,,,,,
+65,2,,,,,,,,,,
+66,2,,,,,,,,,,
+67,2,,,,,,,,,,
+68,2,0SFq19lgG4qbQAZaNZ3xhO,singer-songwriter,,,,,0.502,0.147,144.3,0.381
+68,2,0SFq19lgG4qbQAZaNZ3xhO,songwriter,,,,,0.502,0.147,144.3,0.381
+69,2,0SFq19lgG4qbQAZaNZ3xhO,singer-songwriter,,,,,0.502,0.147,144.3,0.381
+69,2,0SFq19lgG4qbQAZaNZ3xhO,songwriter,,,,,0.502,0.147,144.3,0.381
+70,2,,,,,,,,,,
+71,2,,,,,,,,,,
+72,2,,,,,,,,,,
+73,2,7D0Ntx3LMFMPNtSViJLS4D,show-tunes,,,,,0.563,0.7,113.215,0.546
+74,2,,,,,,,,,,
+75,2,,,,,,,,,,
+76,2,,,,,,,,,,
+77,2,,,,,,,,,,
+78,3,7JJmb5XwzOO8jgpou264Ml,dance,,,,,0.813,0.969,121.998,0.866
+78,3,7JJmb5XwzOO8jgpou264Ml,pop,,,,,0.813,0.969,121.998,0.866
+79,3,4ZTTUAjJCd4NMZmIU7RB4c,edm,,,,,0.648,0.281,144.028,0.587
+79,3,4ZTTUAjJCd4NMZmIU7RB4c,electro,,,,,0.648,0.281,144.028,0.587
+79,3,4ZTTUAjJCd4NMZmIU7RB4c,house,,,,,0.648,0.281,144.028,0.587
+80,3,,,,,,,,,,
+81,3,71R6zJsrF3ffc3TBFHfivX,dance,Searching for information,,,0.0,0.842,0.818,104.958,0.706
+82,3,,,,,,,,,,
+83,3,,,Searching for information,,,1.0,,,,
+84,4,,,Planning / organising work,0.0,0.0,1.0,,,,
+85,4,7tqhbajSfrz2F7E1Z75ASX,funk,Memorising information,0.0,-1.0,2.0,0.6,0.8,129.991,0.663
+85,4,7tqhbajSfrz2F7E1Z75ASX,soul,Memorising information,0.0,-1.0,2.0,0.6,0.8,129.991,0.663
+86,4,,,,0.0,0.0,,,,,
+87,4,6w8tGzTSdZKkKG4IWh1n6h,club,,2.0,0.0,,0.855,0.497,167.538,0.325
+88,4,,,,1.0,-1.0,,,,,
+89,4,,,,1.0,0.0,,,,,
+90,4,,,,,,,,,,
+91,4,,,,1.0,0.0,,,,,
+92,4,,,,,,,,,,
+93,4,,,,,,,,,,
+94,4,,,,0.0,0.0,,,,,
+95,4,,,,0.0,1.0,,,,,
+96,4,,,,0.0,0.0,,,,,
+97,4,,,,-1.0,1.0,,,,,
+98,4,,,,0.0,-1.0,,,,,
+99,4,,,,1.0,-1.0,,,,,
+100,4,,,Memorising information,,,1.0,,,,
+101,4,,,,,,,,,,
+102,4,,,,1.0,1.0,,,,,
+103,4,,,,0.0,0.0,,,,,
+104,4,,,,-1.0,0.0,,,,,
+105,4,,,Memorising information,,,1.0,,,,
+106,4,,,,0.0,0.0,,,,,
+107,4,,,Memorising information,,,1.0,,,,
+108,4,,,Memorising information,0.0,0.0,1.0,,,,
+109,4,,,,,,,,,,
+110,4,,,,2.0,1.0,,,,,
+111,4,,,,-1.0,0.0,,,,,
+112,4,,,,,,,,,,
+113,4,,,,0.0,0.0,,,,,
+114,4,,,,,,,,,,
+115,4,,,,,,,,,,
+116,4,25yQPHgC35WNnnOUqFhgVR,british,,,,,0.325,0.668,65.09,0.311
+116,4,25yQPHgC35WNnnOUqFhgVR,psych-rock,,,,,0.325,0.668,65.09,0.311
+117,4,,,,0.0,-1.0,,,,,
+118,4,1s9LXkIlLBgZIhaL8vsoAF,tango,Memorising information,0.0,0.0,1.0,0.365,0.188,120.973,0.398
+119,4,1rqqCSm0Qe4I9rUvWncaom,rock,,0.0,0.0,,0.904,0.681,82.014,0.579
+120,4,,,,0.0,0.0,,,,,
+121,4,,,Memorising information,0.0,0.0,2.0,,,,
+122,4,,,,2.0,1.0,,,,,
+123,4,776AftMmFFAWUIEAb3lHhw,indie-pop,,,,,0.939,0.644,102.999,0.625
+124,4,,,,,,,,,,
+125,4,,,,0.0,1.0,,,,,
+126,4,6dGnYIeXmHdcikdzNNDMm2,british,,,,,0.54,0.394,129.171,0.557
+126,4,6dGnYIeXmHdcikdzNNDMm2,psych-rock,,,,,0.54,0.394,129.171,0.557
+126,4,6dGnYIeXmHdcikdzNNDMm2,rock,,,,,0.54,0.394,129.171,0.557
+127,4,6dGnYIeXmHdcikdzNNDMm2,british,,,,,0.54,0.394,129.171,0.557
+127,4,6dGnYIeXmHdcikdzNNDMm2,psych-rock,,,,,0.54,0.394,129.171,0.557
+127,4,6dGnYIeXmHdcikdzNNDMm2,rock,,,,,0.54,0.394,129.171,0.557
+128,4,,,,-1.0,-1.0,,,,,
+129,4,,,,-1.0,-1.0,,,,,
+130,4,,,,,,,,,,
+131,5,,,Memorising information,,,1.0,,,,
+132,5,,,Memorising information,-1.0,-1.0,0.0,,,,
+133,5,4gdiCHNbwugojBqr5Jt3pq,k-pop,"Writing an assignment (e.g., essay)",,,-2.0,0.907,0.685,126.004,0.785
+134,5,,,,2.0,2.0,,,,,
+135,5,,,,,,,,,,
+136,5,,,,,,,,,,
+137,5,,,,0.0,-1.0,,,,,
+138,6,6MCjmGYlw6mQVWRFVgBRvB,j-pop,"Reading (e.g., book, article, etc.)",,,1.0,0.871,0.826,130.025,0.663
+139,6,3rmo8F54jFF8OgYsqTxm5d,pop,,,,,0.893,0.537,126.011,0.807
+140,6,3rmo8F54jFF8OgYsqTxm5d,pop,"Reading (e.g., book, article, etc.)",,,0.0,0.893,0.537,126.011,0.807
+141,6,,,"Reading (e.g., book, article, etc.)",0.0,-2.0,,,,,
+142,7,1FlY15vdP570PJucy6JdYm,chill,"Writing an assignment (e.g., essay)",,,2.0,0.446,0.545,80.009,0.788
+143,7,3CFS6vCzVVsWL5veYusCe7,chill,,,,,0.597,0.81,78.681,0.665
+144,7,,,"Writing an assignment (e.g., essay)",-1.0,0.0,2.0,,,,
+145,7,,,"Writing an assignment (e.g., essay)",,,2.0,,,,
+146,7,,,"Writing an assignment (e.g., essay)",,,2.0,,,,
+147,7,4JLI9AgtAXutJvjlXgZBoR,chill,"Writing an assignment (e.g., essay)",0.0,0.0,2.0,0.146,0.889,80.087,0.87
+148,7,,,Searching for information,0.0,0.0,-1.0,,,,
+149,7,,,,1.0,0.0,,,,,
+150,7,,,,0.0,0.0,,,,,
+151,7,,,,0.0,0.0,,,,,
+152,7,,,,,,,,,,
+153,7,0vTKR5TQD03kASmEGlyDF3,metal,,,,,0.915,0.459,123.257,0.51
+154,7,1FlY15vdP570PJucy6JdYm,chill,Searching for information,,,0.0,0.446,0.545,80.009,0.788
+155,7,,,Searching for information,,,1.0,,,,
+156,7,23gcQr3NRKzLXsP9H5jFQ1,chill,,0.0,0.0,,0.277,0.236,84.938,0.614
+156,7,23gcQr3NRKzLXsP9H5jFQ1,sad,,0.0,0.0,,0.277,0.236,84.938,0.614
+157,7,,,,,,,,,,
+158,7,,,,,,,,,,
+159,7,,,,,,,,,,
+160,7,,,,,,,,,,
+161,7,,,,,,,,,,
+162,8,,,Maths / arithmetics,0.0,0.0,-1.0,,,,
+163,8,6wNeKPXF0RDKyvfKfri5hf,electro,,0.0,0.0,,0.708,0.555,130.029,0.725
+164,8,,,,0.0,-2.0,,,,,
+165,8,,,,,,,,,,
+166,8,,,,0.0,1.0,,,,,
+167,8,,,,0.0,1.0,,,,,
+168,8,,,,-1.0,-1.0,,,,,
+169,8,,,,-1.0,1.0,,,,,
+170,8,,,,0.0,3.0,,,,,
+171,8,,,Planning / organising work,2.0,0.0,1.0,,,,
+172,8,,,,,,,,,,
+173,8,,,,0.0,-2.0,,,,,
+174,8,,,,,,,,,,
+175,8,7Eta1k8UzwooyJCB9stY1d,jazz,,,,,0.848,0.561,89.999,0.554
+176,8,7Eta1k8UzwooyJCB9stY1d,jazz,,,,,0.848,0.561,89.999,0.554
+177,8,7Eta1k8UzwooyJCB9stY1d,jazz,,,,,0.848,0.561,89.999,0.554
+178,8,,,,,,,,,,
+179,8,,,,,,,,,,
+180,8,,,,,,,,,,
+181,8,,,,1.0,-1.0,,,,,
+182,8,,,,,,,,,,
+183,8,,,,,,,,,,
+184,8,,,,,,,,,,
+185,8,4DpNNXFMMxQEKl7r0ykkWA,electro,,,,,0.729,0.446,123.97,0.68
+185,8,4DpNNXFMMxQEKl7r0ykkWA,pop,,,,,0.729,0.446,123.97,0.68
+186,8,,,,-1.0,0.0,,,,,
+187,8,,,,,,,,,,
+188,8,,,,,,,,,,
+189,8,,,"Writing an assignment (e.g., essay)",-1.0,1.0,2.0,,,,
+190,8,,,Planning / organising work,0.0,0.0,-1.0,,,,
+191,8,,,,,,,,,,
+192,8,,,,-2.0,0.0,,,,,
+193,8,1foMv2HQwfQ2vntFf9HFeG,alternative,,,,,0.703,0.852,92.761,0.676
+194,8,1foMv2HQwfQ2vntFf9HFeG,alternative,,0.0,0.0,,0.703,0.852,92.761,0.676
+195,8,1foMv2HQwfQ2vntFf9HFeG,alternative,,,,,0.703,0.852,92.761,0.676
+196,8,,,Maths / arithmetics,,,2.0,,,,
+197,8,1foMv2HQwfQ2vntFf9HFeG,alternative,Maths / arithmetics,,,2.0,0.703,0.852,92.761,0.676
+198,8,1foMv2HQwfQ2vntFf9HFeG,alternative,Maths / arithmetics,,,1.0,0.703,0.852,92.761,0.676
+199,8,1foMv2HQwfQ2vntFf9HFeG,alternative,,-1.0,-1.0,,0.703,0.852,92.761,0.676
+200,8,,,,,,,,,,
+201,8,1r9xUipOqoNwggBpENDsvJ,rock,,,,,0.783,0.555,77.011,0.728
+202,8,1foMv2HQwfQ2vntFf9HFeG,alternative,,,,,0.703,0.852,92.761,0.676
+203,8,7Eta1k8UzwooyJCB9stY1d,jazz,,,,,0.848,0.561,89.999,0.554
+204,8,5UlnuulVAVmmesw4VzqHdG,rock,,,,,0.745,0.52,77.029,0.722
+205,8,7Eta1k8UzwooyJCB9stY1d,jazz,,,,,0.848,0.561,89.999,0.554
+206,8,5UlnuulVAVmmesw4VzqHdG,rock,,2.0,0.0,,0.745,0.52,77.029,0.722
+207,8,,,Maths / arithmetics,,,2.0,,,,
+208,8,,,,0.0,0.0,,,,,
+209,8,,,,0.0,0.0,,,,,
+210,8,7Eta1k8UzwooyJCB9stY1d,jazz,,-1.0,0.0,,0.848,0.561,89.999,0.554
+211,8,,,,,,,,,,
+212,8,,,,,,,,,,
+213,8,,,,1.0,0.0,,,,,
+214,8,39LLxExYz6ewLAcYrzQQyP,dance,,,,,0.884,0.914,103.014,0.695
+214,8,3aEJbbODCrHdZh2qY6dRy1,dance,,,,,0.884,0.914,103.014,0.695
+214,8,4y85iyRxpimSDOOU4ht1Rw,dance,,,,,0.884,0.914,103.014,0.695
+214,8,39LLxExYz6ewLAcYrzQQyP,pop,,,,,0.884,0.914,103.014,0.695
+214,8,3aEJbbODCrHdZh2qY6dRy1,pop,,,,,0.884,0.914,103.014,0.695
+214,8,4y85iyRxpimSDOOU4ht1Rw,pop,,,,,0.884,0.914,103.014,0.695
+215,8,7Eta1k8UzwooyJCB9stY1d,jazz,,,,,0.848,0.561,89.999,0.554
+216,8,13MF2TYuyfITClL1R2ei6e,k-pop,,1.0,0.0,,0.836,0.396,124.952,0.661
+217,8,,,,0.0,0.0,,,,,
+218,8,7Eta1k8UzwooyJCB9stY1d,jazz,,1.0,0.0,,0.848,0.561,89.999,0.554
+219,8,,,,-1.0,-1.0,,,,,
+220,8,2Y0iGXY6m6immVb2ktbseM,alt-rock,,,,,0.712,0.62,97.512,0.705
+220,8,2Y0iGXY6m6immVb2ktbseM,alternative,,,,,0.712,0.62,97.512,0.705
+220,8,2Y0iGXY6m6immVb2ktbseM,indie,,,,,0.712,0.62,97.512,0.705
+220,8,2Y0iGXY6m6immVb2ktbseM,rock,,,,,0.712,0.62,97.512,0.705
+221,8,,,,0.0,2.0,,,,,
+222,8,5UlnuulVAVmmesw4VzqHdG,rock,,,,,0.745,0.52,77.029,0.722
+223,8,,,,,,,,,,
+224,8,,,,,,,,,,
+225,8,39LLxExYz6ewLAcYrzQQyP,dance,,,,,0.884,0.914,103.014,0.695
+225,8,3aEJbbODCrHdZh2qY6dRy1,dance,,,,,0.884,0.914,103.014,0.695
+225,8,4y85iyRxpimSDOOU4ht1Rw,dance,,,,,0.884,0.914,103.014,0.695
+225,8,39LLxExYz6ewLAcYrzQQyP,pop,,,,,0.884,0.914,103.014,0.695
+225,8,3aEJbbODCrHdZh2qY6dRy1,pop,,,,,0.884,0.914,103.014,0.695
+225,8,4y85iyRxpimSDOOU4ht1Rw,pop,,,,,0.884,0.914,103.014,0.695
+226,8,7uUahoeqGNRMbpdeiLj1rS,edm,,,,,0.426,0.0636,97.91,0.495
+226,8,7uUahoeqGNRMbpdeiLj1rS,electro,,,,,0.426,0.0636,97.91,0.495
+227,8,,,,0.0,0.0,,,,,
+228,8,,,,,,,,,,
+229,8,,,,0.0,0.0,,,,,
+230,8,1sWeSMifj6Z6kZyI6z3bRc,rock,,2.0,0.0,,0.851,0.309,78.086,0.365
+231,8,,,,,,,,,,
+232,8,,,,1.0,0.0,,,,,
+233,8,,,,,,,,,,
+234,8,4euAGZTszWPrriggYK0HG9,swedish,,0.0,0.0,,0.727,0.71,133.481,0.678
+234,8,2245x0g1ft0HC7sf79zbYN,swedish,,0.0,0.0,,0.701,0.58,133.0,0.695
+235,8,,,,,,,,,,
+236,8,,,,,,,,,,
+237,8,,,,,,,,,,
+238,8,3Dv1eDb0MEgF93GpLXlucZ,dance,,,,,0.673,0.779,110.962,0.787
+239,8,,,,,,,,,,
+240,8,1sWeSMifj6Z6kZyI6z3bRc,rock,,-1.0,-1.0,,0.851,0.309,78.086,0.365
+241,8,,,,,,,,,,
+242,8,,,,1.0,1.0,,,,,
+243,8,2eQeO6nn2hMaMECtoWMT6y,dubstep,,1.0,0.0,,0.785,0.229,170.071,0.44
+244,8,,,,,,,,,,
+245,8,,,,,,,,,,
+246,8,2eQeO6nn2hMaMECtoWMT6y,dubstep,,,,,0.785,0.229,170.071,0.44
+247,8,,,,,,,,,,
+248,8,,,Computer programming,,,1.0,,,,
+249,8,,,,,,,,,,
+250,8,,,Maths / arithmetics,,,1.0,,,,
+251,8,,,Maths / arithmetics,,,1.0,,,,
+252,8,,,,0.0,0.0,,,,,
+253,8,,,,0.0,1.0,,,,,
+254,8,,,,,,,,,,
+255,8,,,,0.0,-1.0,,,,,
+256,8,,,,,,,,,,
+257,8,,,,,,,,,,
+258,8,,,,,,,,,,
+259,8,5UlnuulVAVmmesw4VzqHdG,rock,,,,,0.745,0.52,77.029,0.722
+260,8,,,,,,,,,,
+261,8,,,,,,,,,,
+262,8,,,,,,,,,,
+263,8,,,,,,,,,,
+264,8,,,,,,,,,,
+265,8,,,,,,,,,,
+266,8,,,,,,,,,,
+267,8,3JyvSSU0VnlMUsQckyEVfX,alt-rock,,,,,0.701,0.18,76.918,0.497
+268,8,,,Computer programming,,,0.0,,,,
+269,8,,,,,,,,,,
+270,8,,,,,,,,,,
+271,8,,,,,,,,,,
+272,8,,,,,,,,,,
+273,8,,,Computer programming,,,1.0,,,,
+274,8,,,,,,,,,,
+275,8,,,Computer programming,,,-1.0,,,,
+276,8,,,,,,,,,,
+277,8,,,Computer programming,,,-1.0,,,,
+278,9,,,"Writing an assignment (e.g., essay)",,,1.0,,,,
+279,9,1dGr1c8CrMLDpV6mPbImSI,pop,"Writing an assignment (e.g., essay)",,,1.0,0.543,0.453,68.534,0.359

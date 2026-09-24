@@ -1,0 +1,1006 @@
+{
+  "innerpeace|milkz": {
+    "status": "Match",
+    "genre": "Hiphop/Rap",
+    "opgehaald_op": "2026-09-24T11:07:17.666061+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=inner+peace+Milkz&entity=song&country=NL&limit=50",
+    "titel": "Inner Peace",
+    "artiest": "Milkz",
+    "itunes_id": 1458684607,
+    "bron_url": "https://music.apple.com/nl/album/inner-peace/1458684606?i=1458684607&uo=4"
+  },
+  "ilostafriend|finneas": {
+    "status": "Match",
+    "genre": "Pop",
+    "opgehaald_op": "2026-09-24T11:07:21.917424+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=I+Lost+a+Friend+FINNEAS&entity=song&country=NL&limit=50",
+    "titel": "I Lost a Friend",
+    "artiest": "FINNEAS",
+    "itunes_id": 1720941624,
+    "bron_url": "https://music.apple.com/nl/album/i-lost-a-friend/1720941617?i=1720941624&uo=4"
+  },
+  "migraine|twentyonepilots": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:07:26.034190+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Migraine+Twenty+One+Pilots&entity=song&country=NL&limit=50",
+    "titel": "Migraine",
+    "artiest": "twenty one pilots",
+    "itunes_id": 542853939,
+    "bron_url": "https://music.apple.com/nl/album/migraine/542853930?i=542853939&uo=4"
+  },
+  "areasontofight|disturbed": {
+    "status": "Match",
+    "genre": "Hardrock",
+    "opgehaald_op": "2026-09-24T11:07:30.042867+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=A+Reason+to+Fight+Disturbed&entity=song&country=NL&limit=50",
+    "titel": "A Reason to Fight",
+    "artiest": "Disturbed",
+    "itunes_id": 1425820711,
+    "bron_url": "https://music.apple.com/nl/album/a-reason-to-fight/1425820707?i=1425820711&uo=4"
+  },
+  "messageman|twentyonepilots": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:07:33.996252+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Message+Man+Twenty+One+Pilots&entity=song&country=NL&limit=50",
+    "titel": "Message Man",
+    "artiest": "twenty one pilots",
+    "itunes_id": 974485813,
+    "bron_url": "https://music.apple.com/nl/album/message-man/974485462?i=974485813&uo=4"
+  },
+  "wheniwasyourman|brunomars": {
+    "status": "Match",
+    "genre": "Pop",
+    "opgehaald_op": "2026-09-24T11:07:38.100653+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=When+I+Was+Your+Man+Bruno+Mars&entity=song&country=NL&limit=50",
+    "titel": "When I Was Your Man",
+    "artiest": "Bruno Mars",
+    "itunes_id": 572179987,
+    "bron_url": "https://music.apple.com/nl/album/when-i-was-your-man/572179738?i=572179987&uo=4"
+  },
+  "imprettyforgettable|ocha": {
+    "status": "Match",
+    "genre": "Instrumentaal",
+    "opgehaald_op": "2026-09-24T11:07:41.592747+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=im+pretty+forgettable+ocha&entity=song&country=NL&limit=50",
+    "titel": "im Pretty Forgettable",
+    "artiest": "Ocha",
+    "itunes_id": 1498005804,
+    "bron_url": "https://music.apple.com/nl/album/im-pretty-forgettable/1498005800?i=1498005804&uo=4"
+  },
+  "screen|twentyonepilots": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:07:45.820773+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Screen+Twenty+One+Pilots&entity=song&country=NL&limit=50",
+    "titel": "Screen",
+    "artiest": "twenty one pilots",
+    "itunes_id": 584886655,
+    "bron_url": "https://music.apple.com/nl/album/screen/584886428?i=584886655&uo=4"
+  },
+  "talktome|cavetown": {
+    "status": "Match",
+    "genre": "Pop",
+    "opgehaald_op": "2026-09-24T11:07:49.820693+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Talk+to+Me+Cavetown&entity=song&country=NL&limit=50",
+    "titel": "Talk to Me",
+    "artiest": "Cavetown",
+    "itunes_id": 1553604480,
+    "bron_url": "https://music.apple.com/nl/album/talk-to-me/1553604475?i=1553604480&uo=4"
+  },
+  "carradio|twentyonepilots": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:07:53.653720+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Car+Radio+Twenty+One+Pilots&entity=song&country=NL&limit=50",
+    "titel": "Car Radio",
+    "artiest": "twenty one pilots",
+    "itunes_id": 585128671,
+    "bron_url": "https://music.apple.com/nl/album/car-radio/585128397?i=585128671&uo=4"
+  },
+  "twilight|boa": {
+    "status": "Match",
+    "genre": "Indiepop",
+    "opgehaald_op": "2026-09-24T11:07:57.652396+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Twilight+b%C3%B4a&entity=song&country=NL&limit=50",
+    "titel": "Twilight",
+    "artiest": "bôa",
+    "itunes_id": 1596227763,
+    "bron_url": "https://music.apple.com/nl/album/twilight/1596227761?i=1596227763&uo=4"
+  },
+  "theia|bigyuki": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:08:01.121087+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Thei%C4%81+BIGYUKI&entity=song&country=NL&limit=50"
+  },
+  "aaesaˆaaa|aaamyyy": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:08:04.754495+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=%C3%A5%C2%B1%C2%8D%C3%A3%E2%80%9A%E2%80%99%C3%A8%C2%B6%C5%A0%C3%A3%C2%81%CB%86%C3%A3%C2%81%C2%A6%C3%A3%E2%80%9A%E2%80%A0%C3%A3%C2%81%E2%80%98+AAAMYYY&entity=song&country=NL&limit=50"
+  },
+  "aluminiumukmix|rothbartbaron": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:08:08.701969+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Aluminium+%28UK+mix%29+ROTH+BART+BARON&entity=song&country=NL&limit=50",
+    "titel": "Aluminium (UK mix)",
+    "artiest": "ROTH BART BARON",
+    "itunes_id": 1290070086,
+    "bron_url": "https://music.apple.com/nl/album/aluminium-uk-mix/1290070076?i=1290070086&uo=4"
+  },
+  "comeonletsgo|broadcast": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:08:12.732508+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Come+On+Let%27s+Go+Broadcast&entity=song&country=NL&limit=50",
+    "titel": "Come On Let's Go",
+    "artiest": "Broadcast",
+    "itunes_id": 282547698,
+    "bron_url": "https://music.apple.com/nl/album/come-on-lets-go/282547626?i=282547698&uo=4"
+  },
+  "harleyquinn|chiefkeef": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:08:16.667867+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Harley+Quinn+Chief+Keef&entity=song&country=NL&limit=50"
+  },
+  "bystandersinspace|mosessumney": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:08:20.205651+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Bystanders+%28in+space%29+Moses+Sumney&entity=song&country=NL&limit=50",
+    "titel": "Bystanders (in space)",
+    "artiest": "Moses Sumney",
+    "itunes_id": 1593290304,
+    "bron_url": "https://music.apple.com/nl/album/bystanders-in-space/1593289183?i=1593290304&uo=4"
+  },
+  "toyou|badbadnotgood": {
+    "status": "Match",
+    "genre": "Elektronisch",
+    "opgehaald_op": "2026-09-24T11:08:24.110797+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=To+You+BADBADNOTGOOD&entity=song&country=NL&limit=50",
+    "titel": "To You",
+    "artiest": "BADBADNOTGOOD",
+    "itunes_id": 1236721660,
+    "bron_url": "https://music.apple.com/nl/album/to-you/1236718852?i=1236721660&uo=4"
+  },
+  "stranger|thecavemen": {
+    "status": "Match",
+    "genre": "Highlife",
+    "opgehaald_op": "2026-09-24T11:08:28.576278+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Stranger+The+Cavemen.&entity=song&country=NL&limit=50",
+    "titel": "Stranger",
+    "artiest": "The Cavemen.",
+    "itunes_id": 1591295530,
+    "bron_url": "https://music.apple.com/nl/album/stranger/1591295366?i=1591295530&uo=4"
+  },
+  "laserasperillag|brassbandberneroberland": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:08:32.307433+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=La+Sera+Sper+Il+Lag+Brass+Band+Berner+Oberland&entity=song&country=NL&limit=50"
+  },
+  "eleanorrigby|codyfry": {
+    "status": "Match",
+    "genre": "Singer-songwriter",
+    "opgehaald_op": "2026-09-24T11:08:36.163585+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Eleanor+Rigby+Cody+Fry&entity=song&country=NL&limit=50",
+    "titel": "Eleanor Rigby",
+    "artiest": "Cody Fry",
+    "itunes_id": 1632336499,
+    "bron_url": "https://music.apple.com/nl/album/eleanor-rigby/1632336125?i=1632336499&uo=4"
+  },
+  "allnightlong|brassbandoberschwabenallgau": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:08:40.009710+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=All+Night+Long+Brass+Band+Oberschwaben-Allg%C3%A4u&entity=song&country=NL&limit=50"
+  },
+  "dansespaiennes|eddydebons": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:08:43.568310+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Danses+Pa%C3%AFennes+Eddy+Debons&entity=song&country=NL&limit=50"
+  },
+  "hypercube|oliverwaespi": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:08:47.132847+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Hypercube+Oliver+Waespi&entity=song&country=NL&limit=50"
+  },
+  "momentswelivefor|inparadise": {
+    "status": "Match",
+    "genre": "Pop",
+    "opgehaald_op": "2026-09-24T11:08:51.133516+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Moments+We+Live+For+In+Paradise&entity=song&country=NL&limit=50",
+    "titel": "Moments We Live For",
+    "artiest": "In Paradise",
+    "itunes_id": 1711638636,
+    "bron_url": "https://music.apple.com/nl/album/moments-we-live-for/1711638621?i=1711638636&uo=4"
+  },
+  "wellermanseashanty220kidxbillentedremix|nathanevans": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:08:55.175542+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Wellerman+-+Sea+Shanty+%2F+220+KID+x+Billen+Ted+Remix+Nathan+Evans&entity=song&country=NL&limit=50"
+  },
+  "ifididnthaveyou|banners": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:08:59.267114+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=If+I+Didn%27t+Have+You+BANNERS&entity=song&country=NL&limit=50",
+    "titel": "If I Didn't Have You",
+    "artiest": "BANNERS",
+    "itunes_id": 1556276695,
+    "bron_url": "https://music.apple.com/nl/album/if-i-didnt-have-you/1556276693?i=1556276695&uo=4"
+  },
+  "bang|ajr": {
+    "status": "Match",
+    "genre": "Pop",
+    "opgehaald_op": "2026-09-24T11:09:03.435380+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Bang%21+AJR&entity=song&country=NL&limit=50",
+    "titel": "Bang!",
+    "artiest": "AJR",
+    "itunes_id": 1495856170,
+    "bron_url": "https://music.apple.com/nl/album/bang/1495855922?i=1495856170&uo=4"
+  },
+  "concertodearanjuez|theflowersband": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:09:06.927846+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Concerto+De+Aranjuez+The+Flowers+Band&entity=song&country=NL&limit=50"
+  },
+  "runawayrunaway|nabelha14a14lerabike": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:09:10.400764+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Run+Away+-+Runaway+N%C3%83%C2%A4belh%C3%83%C2%BC%C3%83%C2%BCler+%C3%83%E2%80%9Ebike&entity=song&country=NL&limit=50"
+  },
+  "thelastcall|ottomschwarz": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:09:14.248913+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=The+last+call+Otto+M.+Schwarz&entity=song&country=NL&limit=50"
+  },
+  "nobodydoesitbetter|marvinhamlisch": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:09:18.147548+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Nobody+Does+It+Better+Marvin+Hamlisch&entity=song&country=NL&limit=50"
+  },
+  "thehypnotistcornetsoloversion|obltphilippwerlen": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:09:21.645600+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=The+Hypnotist+-+Cornet+Solo+Version+Oblt+Philipp+Werlen&entity=song&country=NL&limit=50"
+  },
+  "stateofgracetaylorsversion|taylorswift": {
+    "status": "Match",
+    "genre": "Pop",
+    "opgehaald_op": "2026-09-24T11:09:25.772083+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=State+Of+Grace+%28Taylor%27s+Version%29+Taylor+Swift&entity=song&country=NL&limit=50",
+    "titel": "State Of Grace (Taylor's Version)",
+    "artiest": "Taylor Swift",
+    "itunes_id": 1590368278,
+    "bron_url": "https://music.apple.com/nl/album/state-of-grace-taylors-version/1590368275?i=1590368278&uo=4"
+  },
+  "erinshore|brighouseandrastrickbrassband": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:09:29.275618+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Erin+Shore+Brighouse+And+Rastrick+Brass+Band&entity=song&country=NL&limit=50"
+  },
+  "paintitblack|ramindjawadi": {
+    "status": "Match",
+    "genre": "Soundtrack",
+    "opgehaald_op": "2026-09-24T11:09:32.791407+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Paint+It%2C+Black+Ramin+Djawadi&entity=song&country=NL&limit=50",
+    "titel": "Paint It, Black",
+    "artiest": "Ramin Djawadi",
+    "itunes_id": 1454372395,
+    "bron_url": "https://music.apple.com/nl/album/paint-it-black/1454372369?i=1454372395&uo=4"
+  },
+  "anxiety|sophiepecora": {
+    "status": "Match",
+    "genre": "Pop",
+    "opgehaald_op": "2026-09-24T11:09:36.346746+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Anxiety+Sophie+Pecora&entity=song&country=NL&limit=50",
+    "titel": "Anxiety",
+    "artiest": "Sophie Pecora",
+    "itunes_id": 1549710141,
+    "bron_url": "https://music.apple.com/nl/album/anxiety/1549710139?i=1549710141&uo=4"
+  },
+  "lightwalk|barriegott": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:09:40.317082+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Light+Walk+Barrie+Gott&entity=song&country=NL&limit=50"
+  },
+  "miasebastianatmstheme|justinhurwitz": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:09:43.814398+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Mia+%26+Sebastian%C3%A2%E2%82%AC%E2%84%A2s+Theme+Justin+Hurwitz&entity=song&country=NL&limit=50"
+  },
+  "letmemoveyoufromthenetflixfilmworkit|sabrinacarpenter": {
+    "status": "Match",
+    "genre": "Soundtrack",
+    "opgehaald_op": "2026-09-24T11:09:47.797984+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Let+Me+Move+You+-+From+the+Netflix+film+%22Work+It%22+Sabrina+Carpenter&entity=song&country=NL&limit=50",
+    "titel": "Let Me Move You (From the Netflix film \"Work It\")",
+    "artiest": "Sabrina Carpenter",
+    "itunes_id": 1523357416,
+    "bron_url": "https://music.apple.com/nl/album/let-me-move-you-from-the-netflix-film-work-it/1523357415?i=1523357416&uo=4"
+  },
+  "loseyou|ericnam": {
+    "status": "Match",
+    "genre": "Pop",
+    "opgehaald_op": "2026-09-24T11:09:52.322632+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Lose+You+Eric+Nam&entity=song&country=NL&limit=50",
+    "titel": "Lose You",
+    "artiest": "Eric Nam",
+    "itunes_id": 1611276543,
+    "bron_url": "https://music.apple.com/nl/album/lose-you/1611276526?i=1611276543&uo=4"
+  },
+  "moment|leechangmin": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:09:56.336065+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Moment+Lee+Chang+Min&entity=song&country=NL&limit=50"
+  },
+  "diedreigroschenoperaktidiemoritatvonmackiemesserundderhaifischderhatzahne|kurtweill": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:10:00.384700+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Die+Dreigroschenoper%3A+Akt+I%2C+Die+Moritat+von+Mackie+Messer+%28%22Und+der+Haifisch%2C+der+hat+Z%C3%A4hne%22%29+Kurt+Weill&entity=song&country=NL&limit=50"
+  },
+  "diedreigroschenoperaktikanonensongjohnwardarunterundjimwardabei|kurtweill": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:10:04.175557+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Die+Dreigroschenoper%3A+Akt+I%2C+Kanonensong+%28%22John+war+darunter+und+Jim+war+dabei%22%29+Kurt+Weill&entity=song&country=NL&limit=50"
+  },
+  "theworstpiesinlondonhighlightsversion|helenabonhamcarter": {
+    "status": "Match",
+    "genre": "Soundtrack",
+    "opgehaald_op": "2026-09-24T11:10:07.751476+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=The+Worst+Pies+in+London+-+Highlights+Version+Helena+Bonham+Carter&entity=song&country=NL&limit=50",
+    "titel": "The Worst Pies In London (Highlights Version)",
+    "artiest": "Helena Bonham Carter",
+    "itunes_id": 269736809,
+    "bron_url": "https://music.apple.com/nl/album/the-worst-pies-in-london-highlights-version/269736285?i=269736809&uo=4"
+  },
+  "myfriends|johnnydepp": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:10:11.804452+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=My+Friends+Johnny+Depp&entity=song&country=NL&limit=50"
+  },
+  "thenutcrackerop711992remastercafe|pyotrilyichtchaikovsky": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:10:15.334157+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=The+Nutcracker%2C+Op.71+%281992+-+Remaster%29%3A+Cafe+Pyotr+Ilyich+Tchaikovsky&entity=song&country=NL&limit=50"
+  },
+  "mariadebuenosairesyosoymariaarrdelrey|astorpiazzolla": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:10:19.467093+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Maria+de+Buenos+Aires%3A+Yo+soy+Mar%C3%ADa+%28Arr.+del+Rey%29+Astor+Piazzolla&entity=song&country=NL&limit=50"
+  },
+  "midsommarvakamidsummervigilop19swedishrhapsodyno1|hugoalfven": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:10:23.826625+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Midsommarvaka+%28Midsummer+Vigil%29%2C+Op.+19%2C+%22Swedish+Rhapsody+No.1%22+Hugo+Alfv%C3%A9n&entity=song&country=NL&limit=50"
+  },
+  "sommeil|stromae": {
+    "status": "Match",
+    "genre": "Franse pop",
+    "opgehaald_op": "2026-09-24T11:10:27.453144+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=sommeil+Stromae&entity=song&country=NL&limit=50",
+    "titel": "Sommeil",
+    "artiest": "Stromae",
+    "itunes_id": 1440856028,
+    "bron_url": "https://music.apple.com/nl/album/sommeil/1440856001?i=1440856028&uo=4"
+  },
+  "whydidithavetobeme|joshdylan": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:10:31.598372+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Why+Did+It+Have+To+Be+Me%3F+Josh+Dylan&entity=song&country=NL&limit=50"
+  },
+  "fernando|cher": {
+    "status": "Match",
+    "genre": "Pop",
+    "opgehaald_op": "2026-09-24T11:10:35.863600+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Fernando+Cher&entity=song&country=NL&limit=50",
+    "titel": "Fernando",
+    "artiest": "Cher",
+    "itunes_id": 1421985847,
+    "bron_url": "https://music.apple.com/nl/album/fernando/1421985829?i=1421985847&uo=4"
+  },
+  "johanna|jamiecampbellbower": {
+    "status": "Match",
+    "genre": "Soundtrack",
+    "opgehaald_op": "2026-09-24T11:10:39.439520+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Johanna+Jamie+Campbell+Bower&entity=song&country=NL&limit=50",
+    "titel": "Johanna",
+    "artiest": "Jamie Campbell Bower",
+    "itunes_id": 269737326,
+    "bron_url": "https://music.apple.com/nl/album/johanna/269736285?i=269737326&uo=4"
+  },
+  "prettywomenhighlightsversion|johnnydepp": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:10:43.070499+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Pretty+Women+-+Highlights+Version+Johnny+Depp&entity=song&country=NL&limit=50"
+  },
+  "onmywayfrombrotherbearsoundtrackversion|philcollins": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:10:47.100434+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=On+My+Way+-+From+%22Brother+Bear%22%2FSoundtrack+Version+Phil+Collins&entity=song&country=NL&limit=50"
+  },
+  "mammamia|maneskin": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:10:50.772912+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=MAMMAMIA+M%C3%A5neskin&entity=song&country=NL&limit=50"
+  },
+  "jessiesgirl|rickspringfield": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:10:54.910367+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Jessie%27s+Girl+Rick+Springfield&entity=song&country=NL&limit=50"
+  },
+  "milleafeatoriettaberti|fedez": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:10:58.536101+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=MILLE+%C3%A2%E2%82%AC%E2%80%9C+feat.+Orietta+Berti+Fedez&entity=song&country=NL&limit=50"
+  },
+  "lunchboxfriends|melaniemartinez": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:11:02.533838+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Lunchbox+Friends+Melanie+Martinez&entity=song&country=NL&limit=50",
+    "titel": "Lunchbox Friends",
+    "artiest": "Melanie Martinez",
+    "itunes_id": 1473836228,
+    "bron_url": "https://music.apple.com/nl/album/lunchbox-friends/1473836218?i=1473836228&uo=4"
+  },
+  "attheendoftheday|hughjackman": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:11:06.574617+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=At+The+End+Of+The+Day+Hugh+Jackman&entity=song&country=NL&limit=50"
+  },
+  "webuiltthiscitygleecastversion|gleecast": {
+    "status": "Match",
+    "genre": "Pop",
+    "opgehaald_op": "2026-09-24T11:11:10.510383+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=We+Built+This+City+%28Glee+Cast+Version%29+Glee+Cast&entity=song&country=NL&limit=50",
+    "titel": "We Built This City (Glee Cast Version)",
+    "artiest": "Glee Cast",
+    "itunes_id": 972274290,
+    "bron_url": "https://music.apple.com/nl/album/we-built-this-city-glee-cast-version/972274287?i=972274290&uo=4"
+  },
+  "dosoruguitas|sebastianyatra": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:11:14.484186+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Dos+Oruguitas+Sebastian+Yatra&entity=song&country=NL&limit=50"
+  },
+  "tumblingdown|soupandreas": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:11:17.977878+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Tumbling+Down+soupandreas&entity=song&country=NL&limit=50"
+  },
+  "colors|loona": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:11:21.954233+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Colors+LOONA&entity=song&country=NL&limit=50"
+  },
+  "bubbleoflife|manwithamission": {
+    "status": "Match",
+    "genre": "Rock",
+    "opgehaald_op": "2026-09-24T11:11:25.905818+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Bubble+of+Life+MAN+WITH+A+MISSION&entity=song&country=NL&limit=50",
+    "titel": "Bubble of Life",
+    "artiest": "MAN WITH A MISSION",
+    "itunes_id": 542279542,
+    "bron_url": "https://music.apple.com/nl/album/bubble-of-life/542279535?i=542279542&uo=4"
+  },
+  "disconnectmefromsaturator|dustvoxx": {
+    "status": "Match",
+    "genre": "Dance",
+    "opgehaald_op": "2026-09-24T11:11:29.600117+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Disconnect+Me+%28from+saturator%29+Dustvoxx&entity=song&country=NL&limit=50",
+    "titel": "Disconnect Me (From Saturator)",
+    "artiest": "Dustvoxx",
+    "itunes_id": 1494253704,
+    "bron_url": "https://music.apple.com/nl/album/disconnect-me-from-saturator/1494253385?i=1494253704&uo=4"
+  },
+  "future|kagetora": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:11:33.047318+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=FUTURE+Kagetora.&entity=song&country=NL&limit=50"
+  },
+  "letatmsgohometogether|ellahenderson": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:11:36.520714+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Let%C3%A2%E2%82%AC%E2%84%A2s+Go+Home+Together+Ella+Henderson&entity=song&country=NL&limit=50"
+  },
+  "himawari|mujo": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:11:40.005503+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Himawari+Mujo&entity=song&country=NL&limit=50"
+  },
+  "haki|urushi": {
+    "status": "Match",
+    "genre": "Hiphop/Rap",
+    "opgehaald_op": "2026-09-24T11:11:43.493714+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Haki+Urushi&entity=song&country=NL&limit=50",
+    "titel": "Haki",
+    "artiest": "URUSHI",
+    "itunes_id": 1588684382,
+    "bron_url": "https://music.apple.com/nl/album/haki/1588684378?i=1588684382&uo=4"
+  },
+  "putitonhigh|nitsua": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:11:47.020808+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=put+it+on+high+nitsua.&entity=song&country=NL&limit=50"
+  },
+  "standinginparadise|alefillman": {
+    "status": "Match",
+    "genre": "Hiphop/Rap",
+    "opgehaald_op": "2026-09-24T11:11:50.537369+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Standing+in+Paradise+Ale+Fillman&entity=song&country=NL&limit=50",
+    "titel": "Standing in Paradise",
+    "artiest": "Ale Fillman",
+    "itunes_id": 1607193515,
+    "bron_url": "https://music.apple.com/nl/album/standing-in-paradise/1607193512?i=1607193515&uo=4"
+  },
+  "stupidisco|juniorjack": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:11:54.208571+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Stupidisco+Junior+Jack&entity=song&country=NL&limit=50"
+  },
+  "somebodythatiusedtoknow|gotye": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:11:58.076874+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Somebody+that+I+Used+to+Know+Gotye&entity=song&country=NL&limit=50"
+  },
+  "dontyouforgetaboutmeremastered|simpleminds": {
+    "status": "Match",
+    "genre": "Pop",
+    "opgehaald_op": "2026-09-24T11:12:02.088454+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Don%27t+You+%28Forget+About+Me%29+-+Remastered+Simple+Minds&entity=song&country=NL&limit=50",
+    "titel": "Don't You (Forget About Me) [Remastered]",
+    "artiest": "Simple Minds",
+    "itunes_id": 726174715,
+    "bron_url": "https://music.apple.com/nl/album/dont-you-forget-about-me-remastered/726174536?i=726174715&uo=4"
+  },
+  "wavy|altairblake": {
+    "status": "Match",
+    "genre": "Hiphop/Rap",
+    "opgehaald_op": "2026-09-24T11:12:05.604106+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Wavy+Altair+Blake&entity=song&country=NL&limit=50",
+    "titel": "Wavy",
+    "artiest": "Altair Blake",
+    "itunes_id": 1563899164,
+    "bron_url": "https://music.apple.com/nl/album/wavy/1563899162?i=1563899164&uo=4"
+  },
+  "dreamcatchme|newtonfaulkner": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:12:09.575102+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Dream+Catch+Me+Newton+Faulkner&entity=song&country=NL&limit=50"
+  },
+  "alwaysbemybaby|mariahcarey": {
+    "status": "Match",
+    "genre": "Pop",
+    "opgehaald_op": "2026-09-24T11:12:13.500141+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Always+Be+My+Baby+Mariah+Carey&entity=song&country=NL&limit=50",
+    "titel": "Always Be My Baby",
+    "artiest": "Mariah Carey",
+    "itunes_id": 169962272,
+    "bron_url": "https://music.apple.com/nl/album/always-be-my-baby/169962059?i=169962272&uo=4"
+  },
+  "aufuns|andreasbourani": {
+    "status": "Match",
+    "genre": "Pop",
+    "opgehaald_op": "2026-09-24T11:12:17.361968+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Auf+uns+Andreas+Bourani&entity=song&country=NL&limit=50",
+    "titel": "Auf uns",
+    "artiest": "Andreas Bourani",
+    "itunes_id": 1440777917,
+    "bron_url": "https://music.apple.com/nl/album/auf-uns/1440777692?i=1440777917&uo=4"
+  },
+  "perfectstrangers|jonasblue": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:12:21.371447+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Perfect+Strangers+Jonas+Blue&entity=song&country=NL&limit=50"
+  },
+  "somebody|natalielarose": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:12:25.294425+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Somebody+Natalie+La+Rose&entity=song&country=NL&limit=50"
+  },
+  "stfd|tezatalks": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:12:28.775547+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=STFD+TeZATalks&entity=song&country=NL&limit=50"
+  },
+  "dizzy|missio": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:12:32.650937+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Dizzy+MISSIO&entity=song&country=NL&limit=50",
+    "titel": "Dizzy",
+    "artiest": "MISSIO",
+    "itunes_id": 1455673659,
+    "bron_url": "https://music.apple.com/nl/album/dizzy/1455673426?i=1455673659&uo=4"
+  },
+  "rabbithole|aviva": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:12:36.532196+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=RABBIT+HOLE+AViVA&entity=song&country=NL&limit=50",
+    "titel": "Rabbit Hole",
+    "artiest": "AViVA",
+    "itunes_id": 1867300503,
+    "bron_url": "https://music.apple.com/nl/album/rabbit-hole/1867300500?i=1867300503&uo=4"
+  },
+  "overdose|grandson": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:12:40.293908+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Overdose+grandson&entity=song&country=NL&limit=50",
+    "titel": "Overdose",
+    "artiest": "grandson",
+    "itunes_id": 1377380700,
+    "bron_url": "https://music.apple.com/nl/album/overdose/1377380699?i=1377380700&uo=4"
+  },
+  "introinfected|sickick": {
+    "status": "Match",
+    "genre": "Hiphop/Rap",
+    "opgehaald_op": "2026-09-24T11:12:44.029454+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Intro+%28Infected%29+Sickick&entity=song&country=NL&limit=50",
+    "titel": "Intro (Infected)",
+    "artiest": "Sickick",
+    "itunes_id": 1808069721,
+    "bron_url": "https://music.apple.com/nl/album/intro-infected/1808069625?i=1808069721&uo=4"
+  },
+  "idlovetochangetheworldmatstubsremix|jetta": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:12:48.219749+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=I%27d+Love+to+Change+the+World+%28Matstubs+Remix%29+Jetta&entity=song&country=NL&limit=50"
+  },
+  "gloryofnelly|caravanpalace": {
+    "status": "Match",
+    "genre": "Elektronisch",
+    "opgehaald_op": "2026-09-24T11:12:51.692435+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Glory+of+Nelly+Caravan+Palace&entity=song&country=NL&limit=50",
+    "titel": "Glory of Nelly",
+    "artiest": "Caravan Palace",
+    "itunes_id": 501340529,
+    "bron_url": "https://music.apple.com/nl/album/glory-of-nelly/501340479?i=501340529&uo=4"
+  },
+  "solitaire|marina": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:12:55.310079+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Solitaire+MARINA&entity=song&country=NL&limit=50"
+  },
+  "savages|marina": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:12:59.236748+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Savages+MARINA&entity=song&country=NL&limit=50"
+  },
+  "feelyou|neovaii": {
+    "status": "Match",
+    "genre": "Dance",
+    "opgehaald_op": "2026-09-24T11:13:02.971742+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Feel+You+Neovaii&entity=song&country=NL&limit=50",
+    "titel": "Feel You",
+    "artiest": "Neovaii",
+    "itunes_id": 1849214941,
+    "bron_url": "https://music.apple.com/nl/album/feel-you/1849214939?i=1849214941&uo=4"
+  },
+  "festivaloflight|audiomachine": {
+    "status": "Match",
+    "genre": "Soundtrack",
+    "opgehaald_op": "2026-09-24T11:13:06.467323+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Festival+Of+Light+Audiomachine&entity=song&country=NL&limit=50",
+    "titel": "Festival of Light",
+    "artiest": "Audiomachine",
+    "itunes_id": 1601734950,
+    "bron_url": "https://music.apple.com/nl/album/festival-of-light/1601734743?i=1601734950&uo=4"
+  },
+  "happy|marinathediamonds": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:13:10.525080+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Happy+Marina+%26+the+Diamonds&entity=song&country=NL&limit=50"
+  },
+  "inmymind|aliceivy": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:13:14.421207+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=In+My+Mind+Alice+Ivy&entity=song&country=NL&limit=50"
+  },
+  "pityparty|melaniemartinez": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:13:18.206218+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Pity+Party+Melanie+Martinez&entity=song&country=NL&limit=50",
+    "titel": "Pity Party",
+    "artiest": "Melanie Martinez",
+    "itunes_id": 998053322,
+    "bron_url": "https://music.apple.com/nl/album/pity-party/998053321?i=998053322&uo=4"
+  },
+  "bully|tezatalks": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:13:21.668634+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Bully+TeZATalks&entity=song&country=NL&limit=50"
+  },
+  "dirty|grandson": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:13:25.581233+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Dirty+grandson&entity=song&country=NL&limit=50",
+    "titel": "Dirty",
+    "artiest": "grandson",
+    "itunes_id": 1532717465,
+    "bron_url": "https://music.apple.com/nl/album/dirty/1532717460?i=1532717465&uo=4"
+  },
+  "getjinxed|leagueoflegends": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:13:29.641307+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Get+Jinxed+League+of+Legends&entity=song&country=NL&limit=50"
+  },
+  "ladidiefeatjxdn|nessabarrett": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:13:33.478060+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=la+di+die+%28feat.+jxdn%29+Nessa+Barrett&entity=song&country=NL&limit=50"
+  },
+  "littlebombay|thatrickaz": {
+    "status": "Match",
+    "genre": "Dance",
+    "opgehaald_op": "2026-09-24T11:13:37.048403+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Little+Bombay+Tha+Trickaz&entity=song&country=NL&limit=50",
+    "titel": "Little Bombay",
+    "artiest": "Tha Trickaz",
+    "itunes_id": 1478964548,
+    "bron_url": "https://music.apple.com/nl/album/little-bombay/1478964547?i=1478964548&uo=4"
+  },
+  "tiptoe|imaginedragons": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:13:41.055067+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Tiptoe+Imagine+Dragons&entity=song&country=NL&limit=50",
+    "titel": "Tiptoe",
+    "artiest": "Imagine Dragons",
+    "itunes_id": 1440830126,
+    "bron_url": "https://music.apple.com/nl/album/tiptoe/1440829989?i=1440830126&uo=4"
+  },
+  "grrrls|aviva": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:13:44.603534+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=GRRRLS+AViVA&entity=song&country=NL&limit=50"
+  },
+  "chargerfeatgracejones|gorillaz": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:13:48.125865+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Charger+%28feat.+Grace+Jones%29+Gorillaz&entity=song&country=NL&limit=50",
+    "titel": "Charger (feat. Grace Jones)",
+    "artiest": "Gorillaz",
+    "itunes_id": 1215773677,
+    "bron_url": "https://music.apple.com/nl/album/charger-feat-grace-jones/1215772681?i=1215773677&uo=4"
+  },
+  "dullknives|imaginedragons": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:13:52.126131+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Dull+Knives+Imagine+Dragons&entity=song&country=NL&limit=50",
+    "titel": "Dull Knives",
+    "artiest": "Imagine Dragons",
+    "itunes_id": 1617909767,
+    "bron_url": "https://music.apple.com/nl/album/dull-knives/1617908569?i=1617909767&uo=4"
+  },
+  "glitch|brainstormlarot": {
+    "status": "Match",
+    "genre": "Dance",
+    "opgehaald_op": "2026-09-24T11:13:55.589363+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Glitch+Brainstorm+%26+Larot&entity=song&country=NL&limit=50",
+    "titel": "Glitch",
+    "artiest": "Brainstorm & Larot",
+    "itunes_id": 1359887218,
+    "bron_url": "https://music.apple.com/nl/album/glitch/1359886925?i=1359887218&uo=4"
+  },
+  "summernights|siames": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:13:59.552533+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Summer+Nights+SIAMES&entity=song&country=NL&limit=50"
+  },
+  "thewolf|siames": {
+    "status": "Match",
+    "genre": "Indierock",
+    "opgehaald_op": "2026-09-24T11:14:03.486726+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=The+Wolf+SIAMES&entity=song&country=NL&limit=50",
+    "titel": "The Wolf",
+    "artiest": "SIAMES",
+    "itunes_id": 1385954423,
+    "bron_url": "https://music.apple.com/nl/album/the-wolf/1385954418?i=1385954423&uo=4"
+  },
+  "tagyoureit|melaniemartinez": {
+    "status": "Match",
+    "genre": "Alternative",
+    "opgehaald_op": "2026-09-24T11:14:07.438692+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Tag%2C+You%27re+It+Melanie+Martinez&entity=song&country=NL&limit=50",
+    "titel": "Tag, You're It",
+    "artiest": "Melanie Martinez",
+    "itunes_id": 1020518350,
+    "bron_url": "https://music.apple.com/nl/album/tag-youre-it/1020518191?i=1020518350&uo=4"
+  },
+  "blackbetty|caravanpalace": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:14:10.955288+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Black+Betty+Caravan+Palace&entity=song&country=NL&limit=50"
+  },
+  "madworld|garyjules": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:14:14.953051+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Mad+World+Gary+Jules&entity=song&country=NL&limit=50"
+  },
+  "houdini|aviva": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:14:18.468346+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=HOUDINI+AViVA&entity=song&country=NL&limit=50"
+  },
+  "startmenu|tobyfox": {
+    "status": "Match",
+    "genre": "Soundtrack",
+    "opgehaald_op": "2026-09-24T11:14:22.746862+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Start+Menu+Toby+Fox&entity=song&country=NL&limit=50",
+    "titel": "Start Menu",
+    "artiest": "Toby Fox",
+    "itunes_id": 1528217797,
+    "bron_url": "https://music.apple.com/nl/album/start-menu/1528217465?i=1528217797&uo=4"
+  },
+  "heartache|tobyfox": {
+    "status": "Match",
+    "genre": "Soundtrack",
+    "opgehaald_op": "2026-09-24T11:14:26.411169+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Heartache+Toby+Fox&entity=song&country=NL&limit=50",
+    "titel": "Heartache",
+    "artiest": "Toby Fox",
+    "itunes_id": 1528217809,
+    "bron_url": "https://music.apple.com/nl/album/heartache/1528217465?i=1528217809&uo=4"
+  },
+  "pokemonbattlethemedubstepremix|dubstephitz": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:14:30.559666+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Pokemon+Battle+Theme+-+Dubstep+Remix+Dubstep+Hitz&entity=song&country=NL&limit=50"
+  },
+  "metalcrusher|tobyfox": {
+    "status": "Match",
+    "genre": "Soundtrack",
+    "opgehaald_op": "2026-09-24T11:14:34.081890+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Metal+Crusher+Toby+Fox&entity=song&country=NL&limit=50",
+    "titel": "Metal Crusher",
+    "artiest": "Toby Fox",
+    "itunes_id": 1528217845,
+    "bron_url": "https://music.apple.com/nl/album/metal-crusher/1528217465?i=1528217845&uo=4"
+  },
+  "surrenderthethrone|krewella": {
+    "status": "Match",
+    "genre": "Dance",
+    "opgehaald_op": "2026-09-24T11:14:37.539384+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Surrender+The+Throne+Krewella&entity=song&country=NL&limit=50",
+    "titel": "Surrender the Throne",
+    "artiest": "Krewella",
+    "itunes_id": 1114190622,
+    "bron_url": "https://music.apple.com/nl/album/surrender-the-throne/1114190509?i=1114190622&uo=4"
+  },
+  "nolullaby|siames": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:14:41.419497+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=No+Lullaby+SIAMES&entity=song&country=NL&limit=50"
+  },
+  "beggars|krewella": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:14:44.879069+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Beggars+Krewella&entity=song&country=NL&limit=50"
+  },
+  "cantforgetyou|krewella": {
+    "status": "Match",
+    "genre": "Dance",
+    "opgehaald_op": "2026-09-24T11:14:48.653643+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Can%27t+Forget+You+Krewella&entity=song&country=NL&limit=50",
+    "titel": "Can't Forget You",
+    "artiest": "Krewella",
+    "itunes_id": 1114190656,
+    "bron_url": "https://music.apple.com/nl/album/cant-forget-you/1114190509?i=1114190656&uo=4"
+  },
+  "remembermeforcenturies|djniqomusic": {
+    "status": "Match",
+    "genre": "Pop",
+    "opgehaald_op": "2026-09-24T11:14:52.137587+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Remember+Me+for+Centuries+Djniqomusic&entity=song&country=NL&limit=50",
+    "titel": "Remember Me for Centuries",
+    "artiest": "Djniqomusic",
+    "itunes_id": 959735926,
+    "bron_url": "https://music.apple.com/nl/album/remember-me-for-centuries/959735618?i=959735926&uo=4"
+  },
+  "noregretsfeatkrewella|kshmr": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:14:55.721642+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=No+Regrets+%28feat.+Krewella%29+KSHMR&entity=song&country=NL&limit=50"
+  },
+  "beggars|krewellafeatdiskord": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:14:59.176339+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Beggars+Krewella+feat.+DISKORD&entity=song&country=NL&limit=50"
+  },
+  "lonediggervaporwave|caravanpalace": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:15:02.618195+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Lone+Digger+%28Vaporwave%29+Caravan+Palace&entity=song&country=NL&limit=50"
+  },
+  "midnight|caravanpalace": {
+    "status": "Match",
+    "genre": "Elektronisch",
+    "opgehaald_op": "2026-09-24T11:15:06.137841+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Midnight+Caravan+Palace&entity=song&country=NL&limit=50",
+    "titel": "Midnight",
+    "artiest": "Caravan Palace",
+    "itunes_id": 1005693203,
+    "bron_url": "https://music.apple.com/nl/album/midnight/1005692202?i=1005693203&uo=4"
+  },
+  "motherrussia|savant": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:15:09.605622+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Mother+Russia+Savant&entity=song&country=NL&limit=50"
+  },
+  "bringmetolifeteminitethearcturiansremix|evanescence": {
+    "status": "Geen eenduidige match",
+    "genre": null,
+    "opgehaald_op": "2026-09-24T11:15:13.517405+00:00",
+    "zoek_url": "https://itunes.apple.com/search?term=Bring+Me+To+Life+%28Teminite+%26+The+Arcturians+Remix+Evanescence&entity=song&country=NL&limit=50"
+  }
+}
